@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/03XHEKQ.gifv)
+![](https://imgur.com/a/70eF2O0)
 
 
 ## License
