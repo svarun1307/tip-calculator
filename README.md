@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.imgur.com/03XHEKQ.gif" width="340" height="540" />
+<img src="https://i.imgur.com/03XHEKQ.gif" width="240" height="540" />
 
 
 ## License
