@@ -14,6 +14,7 @@
 		8B5024C121BA5A2B008D7DC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B5024BF21BA5A2B008D7DC9 /* LaunchScreen.storyboard */; };
 		8B5024CC21BA5A2B008D7DC9 /* tip_calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5024CB21BA5A2B008D7DC9 /* tip_calculatorTests.swift */; };
 		8B5024D721BA5A2B008D7DC9 /* tip_calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5024D621BA5A2B008D7DC9 /* tip_calculatorUITests.swift */; };
+		8B8E937521D0D7B6000FA429 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8E937421D0D7B6000FA429 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8B5024D221BA5A2B008D7DC9 /* tip-calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "tip-calculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B5024D621BA5A2B008D7DC9 /* tip_calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tip_calculatorUITests.swift; sourceTree = "<group>"; };
 		8B5024D821BA5A2B008D7DC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B8E937421D0D7B6000FA429 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SettingsViewController.swift; path = ../SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				8B5024B621BA5A29008D7DC9 /* AppDelegate.swift */,
 				8B5024B821BA5A29008D7DC9 /* ViewController.swift */,
+				8B8E937421D0D7B6000FA429 /* SettingsViewController.swift */,
 				8B5024BA21BA5A29008D7DC9 /* Main.storyboard */,
 				8B5024BD21BA5A2B008D7DC9 /* Assets.xcassets */,
 				8B5024BF21BA5A2B008D7DC9 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				8B5024B921BA5A29008D7DC9 /* ViewController.swift in Sources */,
 				8B5024B721BA5A29008D7DC9 /* AppDelegate.swift in Sources */,
+				8B8E937521D0D7B6000FA429 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
