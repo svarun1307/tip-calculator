@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Alt Text](https://i.imgur.com/03XHEKQ.gifv)
+![Alt Text](https://media.giphy.com/media/1dJTIGjDt5VvhJRg9s/giphy.gif)
 
 
 
